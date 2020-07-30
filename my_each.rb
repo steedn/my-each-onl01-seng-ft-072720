@@ -5,6 +5,5 @@ def my_each(array) # put argument(s) here
     i +=1
     break if i > array.length
   end
-  array
   # code here
 end
