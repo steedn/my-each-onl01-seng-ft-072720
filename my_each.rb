@@ -8,6 +8,5 @@ def my_each(array) # put argument(s) here
     break if i >= array.length
     # binding.pry
   end
-  array
   # code here
 end
